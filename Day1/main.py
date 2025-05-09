@@ -15,4 +15,4 @@ right.sort()
 total = 0
 for i in range(len(left)):
     total += abs(left[i] - right[i])
-print(total)
+print(total) #2367773
